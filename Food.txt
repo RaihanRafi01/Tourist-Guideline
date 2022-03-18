@@ -1,0 +1,10 @@
+1.Burger       --200 BDT
+2.Pizza        --500 BDT
+3.Sandwich     --100 BDT
+4.Chicken Fry  --150 BDT
+5.French Fry   --70  BDT
+6.Meat Ball    --50  BDT
+7.Lunch Combo  --400 BDT
+8.Tea          --40  BDT
+9.Coffee       --50  BDT
+10.Cold Drinks --30  BDT
